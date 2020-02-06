@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29280" started-at="2020-02-02T12:08:22Z" finished-at="2020-02-02T12:08:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29280" started-at="2020-02-02T12:08:22Z" finished-at="2020-02-02T12:08:52Z">
+      <class name="com.app.test.dataprovide">
+        <test-method status="PASS" signature="lauchBrowser()[pri:0, instance:com.app.test.dataprovide@73035e27]" name="lauchBrowser" is-config="true" duration-ms="7505" started-at="2020-02-02T17:38:22Z" finished-at="2020-02-02T17:38:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.app.test.dataprovide@73035e27]" name="login" duration-ms="4345" started-at="2020-02-02T17:38:30Z" data-provider="testData" finished-at="2020-02-02T17:38:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="lauchBrowser()[pri:0, instance:com.app.test.dataprovide@73035e27]" name="lauchBrowser" is-config="true" duration-ms="5849" started-at="2020-02-02T17:38:34Z" finished-at="2020-02-02T17:38:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.app.test.dataprovide@73035e27]" name="login" duration-ms="4382" started-at="2020-02-02T17:38:40Z" data-provider="testData" finished-at="2020-02-02T17:38:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="lauchBrowser()[pri:0, instance:com.app.test.dataprovide@73035e27]" name="lauchBrowser" is-config="true" duration-ms="5726" started-at="2020-02-02T17:38:44Z" finished-at="2020-02-02T17:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.app.test.dataprovide@73035e27]" name="login" duration-ms="1433" started-at="2020-02-02T17:38:50Z" data-provider="testData" finished-at="2020-02-02T17:38:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kalai]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kalai123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.app.test.dataprovide -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
