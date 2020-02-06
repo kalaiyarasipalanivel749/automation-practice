@@ -9,7 +9,7 @@ import com.app.pages.AddPageObects;
 public class AddPageTest {
 	AddPageObects ap;
 
-	public AddPageTest() {
+	public AddPageTest9090() {
 		ap = new AddPageObects();
 	}
 
